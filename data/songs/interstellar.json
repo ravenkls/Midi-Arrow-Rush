@@ -1,0 +1,7 @@
+{
+  "midi": "interstellar.mid",
+  "name": "Interstellar",
+  "artist": "Hans Zimmer",
+  "levels": [[0], [0, 1]],
+  "tempo": 1
+}

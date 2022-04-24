@@ -1,0 +1,7 @@
+{
+  "midi": "allofme.mid",
+  "name": "All Of Me",
+  "artist": "John Legend",
+  "levels": [[1], [0], [0, 1]],
+  "tempo": 1
+}

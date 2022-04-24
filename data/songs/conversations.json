@@ -1,0 +1,10 @@
+{
+    "midi": "conversations.mid",
+    "name": "Conversations in the Dark",
+    "artist": "John Legend",
+    "levels": [
+        [1],
+        [0, 1]
+    ],
+    "tempo": 1
+}
